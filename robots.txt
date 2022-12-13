@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://beta.theoj.org/sitemap.xml
